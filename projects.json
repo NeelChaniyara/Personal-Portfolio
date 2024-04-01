@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "pagename":"Theproart",
+        "project_title": "HR Analytics Project",
+        "headline": "HR Analytics of Atliq Technologies",
+        "logo": "",
+        "client": "https://www.linkedin.com/in/neelchaniyara/",
+        "images": [
+            ""
+        ],
+        "showcase_images": [
+            "hr_analytics.png",
+            "brandbird (10).webp",
+            "brandbird (6).webp",
+            "brandbird (9).webp"
+        ],
+        "services": [
+            "Data Analytics",
+            "Payment integration",
+            "Ecommerce",
+            "Multi-seller"
+        ],
+        "techStackUsed": [
+            "NextJs",
+            "Typescript",
+            "NestJs",
+            "AWS",
+            "PostgreSQL",
+            "Elasticbeanstalk",
+            "RDS"
+        ],
+        "year": "2022",
+        "live_link": "https://www.linkedin.com/in/neelchaniyara/",
+        "country": "India",
+        "description": {
+            "abstract": "Theproart is as a dynamic multi-seller ecommerce platform designed to bring together diverse sellers and avid shoppers under one virtual roof. Leveraging cutting-edge technology, it offers an intuitive interface and secure transaction channels, enhancing user experiences manifold. For sellers, it's a haven offering insightful analytics and seamless inventory management, fostering business growth. Users can indulge in a rich shopping experience, discovering a wide array of products curated from various sellers, all characterized by quality and authenticity"
+        }
+    },
+    {
+        "id": 2,
+        "pagename":"Servofeat",
+        "project_title": "IMDB Movie Analytics ",
+        "headline": "",
+        "logo": "",
+        "client": "https://servofeat.com/",
+        "images": [
+            ""
+        ],
+        "showcase_images": [
+            "excel_dashboard.png",
+            "img-41.webp",
+            "img-46.webp",
+            "img-42.webp"
+        ],
+        "services": [
+            "Data Analytics",
+            "Payment integration",
+            "Restaurant system",
+            "CI/CD",
+            "Playstore/Appstore"
+        ],
+        "techStackUsed": [
+            "ReactJs",
+            "Javascript",
+            "NodeJs",
+            "AWS",
+            "PostgreSQL",
+            "Elasticbeanstalk",
+            "RDS"
+        ],
+        "year": "2022",
+        "live_link": "https://servofeat.com/",
+        "country": "India",
+        "description": {
+            "abstract": "Servofeat covers all the nook of your business and assists you to manage remotely so that you can focus on enlarging your firm. Get rid from your managing and monotonous work of maintaining resto with servo feat. We assist you to maintain your business digitally so that you can expand and touch your dream."
+        }
+    },
+    {
+        "id": 3,
+        "pagename":"Horizon",
+        "project_title": "E-Commerce Data Analytics",
+        "headline": "Boost Your NFT Creation with",
+        "logo": "",
+        "client": "https://horizone.vercel.app/",
+        "images": [
+            ""
+        ],
+        "showcase_images": [
+            "Ecommerce.png",
+            "brandbird (16).webp",
+            "brandbird (19).webp",
+            "brandbird (20).webp"
+        ],
+        "services": [
+            "Data Analytics",
+            "Blockchain",
+            "Smart contract development",
+            "Web design",
+            "CI/CD"
+        ],
+        "techStackUsed": [
+            "Web3.js",
+            "Hardhat",
+            "Ethereum",
+            "ReactJs",
+            "Javascript",
+            "NodeJs"
+        ],
+        "year": "2022",
+        "live_link": "https://horizone.vercel.app/",
+        "country": "India",
+        "description": {
+            "abstract": "Horizon, a revolutionary app stepping into the Digital World 2.0, promises to be a game-changer in the realm of digital assets and social connectivity. Users can effortlessly create and manage NFTs at minimal cost, seamlessly integrating with Web 3.0 wallets like Metamask and Coinbase. Horizon introduces Locarnoa a groundbreaking feature that facilitates sharing your stories, locations, and illustrations with a burgeoning community. With capabilities extending to the easy management of reels and collections, it stands as a one-stop solution for managing all your digital assets, including the option to monetize reels for a passive income stream. Step into the future with Horizon, where creativity meets technology, opening avenues to explore, create, and earn like never before."
+        }
+    },
+    {
+        "id": 4,
+        "project_title": "Car Sales Analytics",
+        "pagename": "Icopython",
+        "headline": "Python coin distribution platform",
+        "logo": "",
+        "client": "https://ico-python.vercel.app/",
+        "images": [
+            "brandbird (13).webp"
+        ],
+        "showcase_images": [
+            "car_sales.png",
+            "brandbird (12).webp",
+            "brandbird (14).webp",
+            "brandbird (15).webp"
+        ],
+        "services": [
+            "Dapp development",
+            "Blockchain",
+            "Smart contract development",
+            "Web design",
+            "CI/CD"
+        ],
+        "techStackUsed": [
+            "Web3.js",
+            "Hardhat",
+            "Ethereum",
+            "ReactJs",
+            "Javascript",
+            "NodeJs"
+        ],
+        "year": "2022",
+        "live_link": "https://ico-python.vercel.app/",
+        "country": "India",
+        "description": {
+            "abstract": "Python-ICO hosted by Horizon, a revolutionary app stepping into the Digital World 2.0, promises to be a game-changer in the realm of digital assets and social connectivity. Users can effortlessly create and manage NFTs at minimal cost, seamlessly integrating with Web 3.0 wallets like Metamask and Coinbase. Horizon introduces Locarnoa a groundbreaking feature that facilitates sharing your stories, locations, and illustrations with a burgeoning community. With capabilities extending to the easy management of reels and collections, it stands as a one-stop solution for managing all your digital assets, including the option to monetize reels for a passive income stream. Step into the future with Horizon, where creativity meets technology, opening avenues to explore, create, and earn like never before."
+        }
+    },
+    {
+        "id": 5,
+        "pagename": "Utopianbuys",
+        "project_title": "Clothing Ecommerce Website",
+        "headline": "Artistic Ecommerce platform",
+        "logo": "",
+        "client": "https://utopianbuys.netlify.app/",
+        "images": [
+            "brandbird (2).webp"
+        ],
+        "showcase_images": [
+            "website.png",
+            "brandbird (1).webp",
+            "brandbird (3).webp",
+            "brandbird (5).webp"
+        ],
+        "services": [
+            "Web design",
+            "Payment integration",
+            "Ecommerce"
+        ],
+        "techStackUsed": [
+            "ReactJs",
+            "Javascript",
+            "NodeJs",
+            "Render",
+            "MongoDB",
+            "S3"
+        ],
+        "year": "2022",
+        "live_link": "https://utopianbuys.netlify.app/",
+        "country": "India",
+        "description": {
+            "abstract": "Utopianbuys is as a ecommerce platform designed to bring together diverse sellers and avid shoppers under one virtual roof. Leveraging cutting-edge technology, it offers an intuitive interface and secure transaction channels, enhancing user experiences manifold. For sellers, it's a haven offering insightful analytics and seamless inventory management, fostering business growth. Users can indulge in a rich shopping experience, discovering a wide array of products curated from various sellers, all characterized by quality and authenticity"
+        }
+    }
+]
